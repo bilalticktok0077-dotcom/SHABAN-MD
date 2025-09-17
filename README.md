@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=8A2BE2&center=true&width=1150&height=200&lines=PLEASE-FORK-STAR-BOT-REPO" alt="Typing SVG" /></a>
   </div>
-<a><img src='https://i.ibb.co/C37nZNgZ/shaban-md.jpg'/></a>
+<a><img src='[[https://i.ibb.co/XrFMrhB4/Picsart-25-06-08-16-25-01-254.jpg](https://i.ibb.co/XrFMrhB4/Picsart-25-06-08-16-25-01-254.jpg)](https://i.ibb.co/XrFMrhB4/Picsart-25-06-08-16-25-01-254.jpg)'/></a>
 
 <p align="center">
   <a href="https://github.com/alikhan3456-B"><img title="Developer" src="https://img.shields.io/badge/Author-AJNABI%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
@@ -148,7 +148,7 @@ jobs:
 
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=6000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=+SHABAN+MD+QUALITY+EDITION+BY+MR+SHABAN42;⚡+THE+FUTURE+OF+WHATSAPP+BOT+IS+HERE" alt="Footer Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=6000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=+SHABAN+MD+QUALITY+EDITION+BY+AJNABI+HACKER;⚡+THE+FUTURE+OF+WHATSAPP+BOT+IS+HERE" alt="Footer Animation">
 </h3>
 
 
