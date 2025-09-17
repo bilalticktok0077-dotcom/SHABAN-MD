@@ -48,7 +48,7 @@ href="https://github.com/alikhan3456-B/AJNABI-MD/graphs/commit-activity"><img he
 
   **⛓️‍💥 NEW SESSION WEB ADDED √**
   
-  <a href='https://pair-qc18.onrender.com/' target="_blank">
+  <a href='https://irfan-pairs-t1yy.onrender.com/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE-FF0000?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
 
